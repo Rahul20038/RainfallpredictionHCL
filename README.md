@@ -13,7 +13,7 @@ Matplotlib
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/rainfall-prediction.git
+git clone https://github.com/Rahul20038/RainfallpredictionHCL.git
 cd rainfall-prediction
 
 
